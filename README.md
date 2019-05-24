@@ -2,7 +2,7 @@
 
 Hello
 
-![ProfilePic](github.com/blabergg/blabergg.github.io/blob/master/GangsterCat.jpg)
+![ProfilePic](https://github.com/blabergg/blabergg.github.io/blob/master/GangsterCat.jpg)
 
 ### Markdown
 
